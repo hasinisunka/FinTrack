@@ -74,9 +74,21 @@ Expense-Tracker/
 
 ---
 
+## Screenshots
 
+### Login Page
 
+### Register Page
+![Image](register.png)
 
+### Dashboard Page
+![Image](dashboard.png)
+
+### Graphs and Charts
+![Image](graphs.png)
+
+### Transactions
+![Image](transactions.png)
 
 ---
 
