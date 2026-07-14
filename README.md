@@ -77,6 +77,7 @@ Expense-Tracker/
 ## Screenshots
 
 ### Login Page
+![Image](loginpage.png)
 
 ### Register Page
 ![Image](register.png)
